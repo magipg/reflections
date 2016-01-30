@@ -1,0 +1,4 @@
+Question : How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area works as a middle area in which you can select which files will be commited. Your working directory have all  the files that were modified
+in the repository since last commit. The repository can be simplified as a group of commit
