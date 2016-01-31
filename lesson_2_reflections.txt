@@ -11,3 +11,7 @@ Question : What are some situations when branches would be helpful in keeping yo
 
 Branches are good for situations were trying out new experimental features outside of the main branch to not ruin branch history,
 also for trying out versions of the same proyect
+
+Question : How do the diagrams help you visualize the branch structure?
+
+Helps you to see the reachability of each branch and which commits are unreachable
