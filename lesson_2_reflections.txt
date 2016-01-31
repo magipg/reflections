@@ -15,3 +15,8 @@ also for trying out versions of the same proyect
 Question : How do the diagrams help you visualize the branch structure?
 
 Helps you to see the reachability of each branch and which commits are unreachable
+
+Question : What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A new commit that will be the tip of the "merge to" branch. Both commit history will be reacheable and displayed by timestamp by this commit.
+it is represent like that so its easier to see the reachability of each branch history through the newest commit created while merging branches
