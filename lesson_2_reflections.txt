@@ -2,3 +2,7 @@ Question : How is the staging area different from the working directory and the 
 
 The staging area works as a middle area in which you can select which files will be commited. Your working directory have all  the files that were modified
 in the repository since last commit. The repository can be simplified as a group of commit
+
+Question : How can you use the staging area to make sure you have one commit per logical change?
+
+You can review which files you have modified and also which things, so you can chose one file at a time to commit per logical change
