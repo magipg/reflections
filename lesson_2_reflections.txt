@@ -6,3 +6,8 @@ in the repository since last commit. The repository can be simplified as a group
 Question : How can you use the staging area to make sure you have one commit per logical change?
 
 You can review which files you have modified and also which things, so you can chose one file at a time to commit per logical change
+
+Question : What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are good for situations were trying out new experimental features outside of the main branch to not ruin branch history,
+also for trying out versions of the same proyect
