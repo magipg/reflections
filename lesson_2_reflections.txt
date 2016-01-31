@@ -20,3 +20,11 @@ Question : What is the result of merging two branches together? Why do we repres
 
 A new commit that will be the tip of the "merge to" branch. Both commit history will be reacheable and displayed by timestamp by this commit.
 it is represent like that so its easier to see the reachability of each branch history through the newest commit created while merging branches
+
+Question : What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros:
+	- Saves time
+	- Easier resolving time
+cons:
+	- Bad written code might break your app
